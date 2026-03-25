@@ -1,0 +1,84 @@
+PRIVACY POLICY
+Last updated  December 23, 2025
+
+This Privacy Notice for Innovodel LLC ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services").
+
+SUMMARY OF KEY POINTS
+- We may process personal information depending on how you use our Services.
+- We may process sensitive personal information only where legally allowed.
+- We do not collect personal information from third parties directly.
+- We process information to provide, improve, and protect our Services.
+- You may have privacy rights depending on your jurisdiction.
+
+TABLE OF CONTENTS
+1. WHAT INFORMATION DO WE COLLECT?
+2. HOW DO WE PROCESS YOUR INFORMATION?
+3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?
+4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+6. HOW LONG DO WE KEEP YOUR INFORMATION?
+7. HOW DO WE KEEP YOUR INFORMATION SAFE?
+8. DO WE COLLECT INFORMATION FROM MINORS?
+9. WHAT ARE YOUR PRIVACY RIGHTS?
+10. CONTROLS FOR DO-NOT-TRACK FEATURES
+11. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+12. DO WE MAKE UPDATES TO THIS NOTICE?
+13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+
+1. WHAT INFORMATION DO WE COLLECT?
+We collect information you provide to us, such as:
+- name, phone number, email, mailing address
+- account details (username/password)
+- billing and payment-related details
+
+Payment processors may include Stripe and PayPal:
+- https://stripe.com/privacy
+- https://www.paypal.com/us/legalhub/paypal/privacy-full
+
+2. HOW DO WE PROCESS YOUR INFORMATION?
+We process your information to:
+- create and manage user accounts
+- deliver services and fulfill orders
+- process payments, returns, and exchanges
+- prevent fraud and protect the Services
+- improve products, services, and user experience
+
+3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?
+We process personal information based on lawful grounds such as consent, contract, legal obligations, legitimate interests, and protection of rights.
+
+4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+We may share information in limited situations, including business transfers or required service integrations.
+
+5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+Yes. We may use cookies and similar technologies to maintain security, improve functionality, and understand usage.
+
+6. HOW LONG DO WE KEEP YOUR INFORMATION?
+We keep information only as long as necessary for the purposes described in this notice or as required by law.
+
+7. HOW DO WE KEEP YOUR INFORMATION SAFE?
+We apply reasonable technical and organizational safeguards. However, no online system is fully secure.
+
+8. DO WE COLLECT INFORMATION FROM MINORS?
+We do not knowingly collect data from children under 18 years of age (or equivalent legal age in your jurisdiction).
+
+9. WHAT ARE YOUR PRIVACY RIGHTS?
+Depending on location and law, you may request access, correction, deletion, restriction, or portability of your personal information.
+
+10. CONTROLS FOR DO-NOT-TRACK FEATURES
+We do not currently respond to standard DNT signals. Where required, we honor applicable Global Privacy Control (GPC) signals.
+
+11. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+Residents of certain US states may have additional rights, including access, correction, deletion, and opt-out rights.
+
+12. DO WE MAKE UPDATES TO THIS NOTICE?
+Yes. We may update this notice to reflect legal or operational changes.
+
+13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+Innovodel LLC
+946 Ferm Ave, Orlando, Florida 32814-6098
+Email: privacy@innovodel.com
+Phone: +1-833-817-8854
+
+14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+To request access, correction, update, or deletion of personal data, contact us at privacy@innovodel.com.
