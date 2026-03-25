@@ -11,8 +11,16 @@ if (!function_exists('admin_e')) {
     }
 }
 
-$adminBaseUrl = '/admin';
-$siteBaseUrl = '';
+$scriptName = str_replace('\\', '/', (string) ($_SERVER['SCRIPT_NAME'] ?? '/admin/index.php'));
+$adminBaseUrl = rtrim(dirname($scriptName), '/');
+if ($adminBaseUrl === '') {
+    $adminBaseUrl = '/admin';
+}
+
+$siteBaseUrl = rtrim(dirname($adminBaseUrl), '/');
+if ($siteBaseUrl === '/') {
+    $siteBaseUrl = '';
+}
 
 $assetBaseUrl = $siteBaseUrl . '/assets';
 $dashboardHref = $adminBaseUrl . '/index.php';
